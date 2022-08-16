@@ -12,4 +12,6 @@ To change number of streaks or flips modify source code.
 Project #3 (16.08.2022)
 Open book
 
-Simple script to open automatetheboringstuff.com website with chapter number given as command line argument
+Script to open automateboringstuff.com website, launch terminal and change directory to the one where I save my projects. To run script just press Windows key, type Automate Boring Stuff and hit enter. It opens terminal where you have to specify chapter to open. 
+
+All in all, it reduces the time to open the website and terminal to 2 seconds.
